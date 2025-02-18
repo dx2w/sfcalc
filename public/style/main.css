@@ -1,0 +1,29 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: #344;
+    padding: 0;
+    margin: 0;
+}
+.upSelNav {
+    background-color: #455;
+    border-bottom: 1px solid #566;
+    height: 3vh;
+    width: 100vw;
+}
+.nvLi {
+    color: #EFF;
+}
+.nvLi:hover {
+    color: #FFF;
+}
+.nvLi:active {
+    color: #DEE;
+}
+.currentNvLi {
+    color: #DEE;
+}
+.nvLiCnt {
+    padding: 5%;
+}
